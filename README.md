@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HououinKyoumaa.
+- 👀 I’m interested in proggraming.
+- 🌱 I’m currently learning informatics and telecommunications.
